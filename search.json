@@ -1,0 +1,32 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Common Fund Data Ecosystem",
+    "section": "",
+    "text": "Preface\nThe National Institutes of Health (NIH) Common Fund Data Ecosystem (CFDE) represents a transformative effort to enhance data sharing, integration, and usability across diverse biomedical research domains. As the volume and complexity of biomedical data continue to grow, the CFDE aims to break down silos, enabling researchers to efficiently find, access, and analyze data critical to advancing science and medicine.\nThis report focuses on metrics and data as foundational elements of evaluating and guiding the CFDE’s impact. Metrics provide a quantitative lens to assess progress, identify challenges, and inform strategic decision-making, while robust data support comprehensive analyses and foster transparency. By examining the ecosystem’s usage patterns, user engagement, and research outputs, we aim to provide actionable insights that support both the ongoing development of the CFDE and its alignment with broader NIH goals.\nOur approach integrates quantitative metrics—such as data access, downloads, and tool utilization—with qualitative observations that capture user experience and engagement. Together, these elements form a cohesive picture of how the CFDE supports researchers and fulfills its mission of maximizing the impact of NIH-funded data.\nThis report is intended for stakeholders across the biomedical and data science communities, including NIH program officers, researchers, and policymakers. We hope it serves as a resource to catalyze discussion, innovation, and collaboration as we collectively strive to harness the full potential of biomedical data.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "The NIH Common Fund Data Ecosystem (CFDE) serves as a vital infrastructure supporting the sharing, integration, and usability of biomedical data across a diverse range of research areas. By fostering interoperability and collaboration, the CFDE addresses the growing need for efficient data access and reuse, enabling scientists to tackle pressing questions in biomedicine.\nThe CFDE comprises five core centers, each focused on a specific aspect of the ecosystem’s development and operation, and a network of data coordinating centers (DCCs) representing specific research domains. These DCCs bring together rich datasets, tools, and expertise, creating a foundation for interdisciplinary collaboration. To expand its reach and capabilities, the CFDE has also funded a series of strategic partnerships with external organizations and projects, enhancing the ecosystem’s capacity to meet evolving research needs.\nIn addition to these structural components, CFDE supports a variety of cross-cutting activities. These include meetings, workshops, and webinars designed to facilitate knowledge exchange, foster community engagement, and drive the ecosystem’s growth. Collectively, these elements form a dynamic and adaptable framework for advancing biomedical research.\nThis report provides an analysis of the CFDE through the lens of metrics and data, structured into four sections:\n\nCenters: This section examines the contributions of the five CFDE centers, focusing on their individual roles and collective impact on the ecosystem’s goals.\n\nData Coordinating Centers (DCCs): Here, we analyze the role of DCCs in curating and providing access to high-value datasets and their interactions with the broader CFDE framework.\nPartnerships: This section highlights the impact of CFDE-funded partnerships, emphasizing their role in expanding the ecosystem’s scope and capacity.\n\nCross-Cutting Activities: Finally, we evaluate the effectiveness of meetings, workshops, and webinars in promoting community engagement and supporting ecosystem objectives.\n\nThis structure ensures a comprehensive evaluation of the CFDE’s multifaceted components, capturing their distinct contributions while addressing their interdependencies. By organizing the report in this way, we aim to provide stakeholders with a clear understanding of the ecosystem’s achievements and opportunities for future growth.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "7  Summary",
+    "section": "",
+    "text": "In summary, this book is not yet even close to complete.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  }
+]
