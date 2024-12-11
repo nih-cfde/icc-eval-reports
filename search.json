@@ -57,7 +57,18 @@
     "href": "dcc-kidsfirst.html#metrics",
     "title": "7  Kids First",
     "section": "7.3 Metrics",
-    "text": "7.3 Metrics\n\n7.3.1 Google Analytics\n\nWebsite Traffic: Total visitors, unique visitors, geographic distribution.\n\nEngagement: Average time on page, bounce rate, popular pages.\n\nReferrals: Sources driving traffic (e.g., search engines, social media).\n\nUser Flow: Navigation paths, exit points.\n\n\n\n7.3.2 GitHub Metrics\n\nRepository Activity: Number of commits, issues opened/closed, pull requests.\n\nContributors: Active contributors, new contributors.\n\nEngagement: Stars, forks, watchers, and downloads of releases.\n\nUsage Insights: Popular repositories or features, trends in usage over time.\n\n\n\n7.3.3 Tool Usage\n\nAdoption and usage metrics for tools or software developed by the center/DCC.\n\nUser feedback and satisfaction.\n\n\n\n7.3.4 Data Downloads\n\nVolume of data accessed/downloaded.\n\nBreakdown by dataset or resource.\n\nTrends over time and geographic distribution.\n\n\n\n7.3.5 Other Engagement Metrics\n\nNewsletter or email subscription statistics.\n\nSocial media activity (e.g., Twitter mentions, followers).\n\nTraining materials access (e.g., tutorials, videos, documentation).",
+    "text": "7.3 Metrics\n\n7.3.1 Google Analytics\n\nWebsite Traffic: Total visitors, unique visitors, geographic distribution.\n\nEngagement: Average time on page, bounce rate, popular pages.\n\nReferrals: Sources driving traffic (e.g., search engines, social media).\n\nUser Flow: Navigation paths, exit points.\n\n\n\n7.3.2 GitHub Metrics\n\nRepository Activity: Number of commits, issues opened/closed, pull requests.\n\nContributors: Active contributors, new contributors.\n\nEngagement: Stars, forks, watchers, and downloads of releases.\n\nUsage Insights: Popular repositories or features, trends in usage over time.\n\n\n\n7.3.3 Tool Usage\n\nAdoption and usage metrics for tools or software developed by the center/DCC.\n\nUser feedback and satisfaction.\n\n\n\n7.3.4 Other Engagement Metrics\n\nNewsletter or email subscription statistics.\n\nSocial media activity (e.g., Twitter mentions, followers).\n\nTraining materials access (e.g., tutorials, videos, documentation).",
+    "crumbs": [
+      "Data Coordinating Centers",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Kids First</span>"
+    ]
+  },
+  {
+    "objectID": "dcc-kidsfirst.html#data",
+    "href": "dcc-kidsfirst.html#data",
+    "title": "7  Kids First",
+    "section": "7.4 Data",
+    "text": "7.4 Data\n\n7.4.1 Downloads\n\nVolume of data accessed/downloaded.\n\nBreakdown by dataset or resource.\n\nTrends over time and geographic distribution.\n\n\n\n7.4.2 FAIR Assessments",
     "crumbs": [
       "Data Coordinating Centers",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Kids First</span>"
@@ -67,8 +78,8 @@
     "objectID": "dcc-kidsfirst.html#scientific-impact",
     "href": "dcc-kidsfirst.html#scientific-impact",
     "title": "7  Kids First",
-    "section": "7.4 Scientific impact",
-    "text": "7.4 Scientific impact\n\n7.4.1 Publications\n\n\n7.4.2 Mentions\nPapers that mention data or tools but don’t directly cite (full text search based on keywords)\n\n\n7.4.3 Citation overview\n\nWhat are the themes associated with citations and mentions",
+    "section": "7.5 Scientific impact",
+    "text": "7.5 Scientific impact\n\n7.5.1 Publications\n\n\n7.5.2 Mentions\nPapers that mention data or tools but don’t directly cite (full text search based on keywords)\n\n\n7.5.3 Citation overview\n\nWhat are the themes associated with citations and mentions",
     "crumbs": [
       "Data Coordinating Centers",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Kids First</span>"
@@ -78,8 +89,8 @@
     "objectID": "dcc-kidsfirst.html#discussion-and-recommendations",
     "href": "dcc-kidsfirst.html#discussion-and-recommendations",
     "title": "7  Kids First",
-    "section": "7.5 Discussion and Recommendations",
-    "text": "7.5 Discussion and Recommendations\n\nAnalysis of the metrics and their implications.\n\nRecommendations for improving engagement, tool adoption, or data accessibility.\n\nFuture plans or initiatives.",
+    "section": "7.6 Discussion and Recommendations",
+    "text": "7.6 Discussion and Recommendations\n\nAnalysis of the metrics and their implications.\n\nRecommendations for improving engagement, tool adoption, or data accessibility.\n\nFuture plans or initiatives.",
     "crumbs": [
       "Data Coordinating Centers",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Kids First</span>"
