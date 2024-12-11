@@ -1,5 +1,9 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+The National Institutes of Health (NIH) Common Fund Data Ecosystem (CFDE) represents a transformative effort to enhance data sharing, integration, and usability across diverse biomedical research domains. As the volume and complexity of biomedical data continue to grow, the CFDE aims to break down silos, enabling researchers to efficiently find, access, and analyze data critical to advancing science and medicine.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+This report focuses on metrics and data as foundational elements of evaluating and guiding the CFDE's impact. Metrics provide a quantitative lens to assess progress, identify challenges, and inform strategic decision-making, while robust data support comprehensive analyses and foster transparency. By examining the ecosystem’s usage patterns, user engagement, and research outputs, we aim to provide actionable insights that support both the ongoing development of the CFDE and its alignment with broader NIH goals.
+
+Our approach integrates quantitative metrics—such as data access, downloads, and tool utilization—with qualitative observations that capture user experience and engagement. Together, these elements form a cohesive picture of how the CFDE supports researchers and fulfills its mission of maximizing the impact of NIH-funded data.
+
+This report is intended for stakeholders across the biomedical and data science communities, including NIH program officers, researchers, and policymakers. We hope it serves as a resource to catalyze discussion, innovation, and collaboration as we collectively strive to harness the full potential of biomedical data.
