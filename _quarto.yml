@@ -22,6 +22,9 @@ book:
         - center-drc.qmd
         - center-cwic.qmd
         - center-tc.qmd
+    - part: dccs.qmd
+    - part: partnerships.qmd
+    - part: cross-cutting.qmd
     - summary.qmd
     - references.qmd
   
