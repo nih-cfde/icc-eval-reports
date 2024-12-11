@@ -23,6 +23,8 @@ book:
         - center-cwic.qmd
         - center-tc.qmd
     - part: dccs.qmd
+      chapters:
+        - dcc-kidsfirst.qmd
     - part: partnerships.qmd
     - part: cross-cutting.qmd
     - summary.qmd
