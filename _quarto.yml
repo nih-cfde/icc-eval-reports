@@ -2,8 +2,8 @@ project:
   type: book
 
 book:
-
-  repo-url: https://github.com/quarto-dev/quarto-demo
+  google-analytics: "G-KLLV1GCF4E"
+  repo-url: https://github.com/nih-cfde/icc-eval-reports
   repo-actions: [edit, source, issue]
   title: "The Common Fund Data Ecosystem"
   subtitle: "A report on the state of the ecosystem"

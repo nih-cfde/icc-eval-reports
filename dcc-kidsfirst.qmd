@@ -1,1 +1,66 @@
 # Kids First
+
+## Introduction
+
+- Overview of the center/DCC and its mission.  
+- Key areas of focus or expertise.  
+- Contributions to the broader CFDE goals.  
+
+## Events  
+- Summary of significant events (meetings, workshops, webinars).  
+- Objectives and outcomes of these events.  
+- Community engagement metrics (e.g., attendance, feedback).  
+
+## Milestones 
+- Key achievements over the reporting period.  
+- Notable projects, publications, or releases.  
+- Alignment with CFDE objectives and future milestones.  
+
+## Metrics  
+
+### Google Analytics
+- **Website Traffic**: Total visitors, unique visitors, geographic distribution.  
+- **Engagement**: Average time on page, bounce rate, popular pages.  
+- **Referrals**: Sources driving traffic (e.g., search engines, social media).  
+- **User Flow**: Navigation paths, exit points.  
+
+### GitHub Metrics  
+- **Repository Activity**: Number of commits, issues opened/closed, pull requests.  
+- **Contributors**: Active contributors, new contributors.  
+- **Engagement**: Stars, forks, watchers, and downloads of releases.  
+- **Usage Insights**: Popular repositories or features, trends in usage over time.  
+
+### Tool Usage
+- Adoption and usage metrics for tools or software developed by the center/DCC.  
+- User feedback and satisfaction.    
+
+### Other Engagement Metrics  
+- Newsletter or email subscription statistics.  
+- Social media activity (e.g., Twitter mentions, followers).  
+- Training materials access (e.g., tutorials, videos, documentation).
+
+## Data
+
+### Downloads 
+- Volume of data accessed/downloaded.  
+- Breakdown by dataset or resource.  
+- Trends over time and geographic distribution.
+
+### FAIR Assessments
+
+## Scientific impact
+
+### Publications
+
+### Mentions
+
+Papers that mention data or tools but don't directly cite (full text search based on keywords)
+
+### Citation overview
+
+- What are the themes associated with citations and mentions
+
+## Discussion and Recommendations  
+- Analysis of the metrics and their implications.  
+- Recommendations for improving engagement, tool adoption, or data accessibility.  
+- Future plans or initiatives.  
