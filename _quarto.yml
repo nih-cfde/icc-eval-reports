@@ -31,7 +31,7 @@ book:
   search: 
     location: sidebar
     type: overlay
-  downloads: [pdf, epub]
+  downloads: [pdf]
 
 bibliography: references.bib
 
