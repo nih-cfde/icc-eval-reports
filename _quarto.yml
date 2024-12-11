@@ -2,22 +2,63 @@ project:
   type: book
 
 book:
-  title: "CFDE Reporting"
-  author: "Norah Jones"
-  date: "12/11/2024"
+
+  repo-url: https://github.com/quarto-dev/quarto-demo
+  repo-actions: [edit, source, issue]
+  title: "The Common Fund Data Ecosystem"
+  subtitle: "A report on the state of the ecosystem"
+  author: "Common Fund Data Ecosystem Evaluation Core Team"
+  #affiliation: "Integration and Coordination Center, Common Fund Data Ecosystem"
+  date-format: "long"
+  date: "today"
+  cover-image: cover.png
   chapters:
     - index.qmd
     - intro.qmd
+    - part: centers.qmd
+      chapters:
+        - center-icc.qmd
+        - center-kc.qmd
+        - center-drc.qmd
+        - center-cwic.qmd
+        - center-tc.qmd
     - summary.qmd
     - references.qmd
+  
+  search: 
+    location: sidebar
+    type: overlay
+  downloads: [pdf, epub]
 
 bibliography: references.bib
 
 format:
   html:
     theme: cosmo
-  pdf:
+  titlepage-pdf:
+    titlepage: formal
+    titlepage-logo: "cover.png"
     documentclass: scrreprt
-
+    number-sections: true
+    titlepage-theme:
+      elements: ["\\titleblock", "\\authorblock", "\\dateblock", "\\vfill", "A report presented at the annual\\\\meeting on 10 August 2025\\\\ \\vspace{0.8cm}",  "\\logoblock", "\\footerblock"]
+      page-align: "center"
+      title-style: "plain"
+      title-fontstyle: ["Huge", "textbf"]
+      title-space-after: "2.5cm"
+      subtitle-fontstyle: "LARGE"
+      title-subtitle-space-between: "0.5cm"
+      author-style: "plain"
+      author-sep: "newline"
+      author-fontstyle: "textbf"
+      author-space-after: "2\\baselineskip"
+      affiliation-style: "numbered-list-with-correspondence"
+      affiliation-fontstyle: "large"
+      affiliation-space-after: "0pt"
+      footer-style: "plain"
+      footer-fontstyle: ["Large", "textsc"]
+      footer-space-after: "0pt"
+      logo-size: "0.4\\textwidth"
+      logo-space-after: "1cm"
 
 
